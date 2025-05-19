@@ -19,5 +19,4 @@ echo "<h1>".$row["title"]."</h1>";
 // Look on week 8 for the files
 
 
-
 ?>
